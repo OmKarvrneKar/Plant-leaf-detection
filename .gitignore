@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (too large for GitHub)
+my_leaf_model/
+plantvillage_model/
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# Large datasets (use Git LFS or exclude)
+New_Plant_Diseases_Dataset/
+plantvillage_organized/
+plantvillage\ dataset/
+dataset/train/
+dataset/val/
+
+# Generated results
+analysis_results/
+captured_diagnoses/
+live_diagnosis_results/
+live_test_results/
+results/
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+temp/
+tmp/
+cache/

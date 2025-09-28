@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+huggingface_hub
+scikit-learn
+matplotlib
+evaluate
+Pillow
+numpy
+pandas
+accelerate
+
+
