@@ -80,7 +80,7 @@ python scripts/batch_test.py --test_dir ./test_images
 - [API Reference](docs/api_reference.md)
 - [Examples](docs/examples/)
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -88,21 +88,12 @@ python scripts/batch_test.py --test_dir ./test_images
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - PlantVillage Dataset
 - Hugging Face Transformers
 - OpenCV Community
 
-## 📞 Support
-
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/plant-disease-detection/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/plant-disease-detection/discussions)
-- 📧 **Contact**: your.email@example.com
 
 ---
 
