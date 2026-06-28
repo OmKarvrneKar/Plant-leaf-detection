@@ -97,6 +97,6 @@ python scripts/batch_test.py --test_dir ./test_images
 
 ---
 
-⭐ If this project helped you, please give it a star!
+ ** If this project helped you, please give it a star!** 
 
 
